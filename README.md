@@ -1,6 +1,6 @@
 ## V.I.N.E. ##
 
-Description : 
+Description :
 
 ### Inspiration
 We were inspired by the potential to help parents provide educational content and narrate bed time stories for their children. 
